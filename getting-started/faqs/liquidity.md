@@ -2,7 +2,7 @@
 
 ## How do I invest/provide liquidity?
 
-First time here? Check out [this tutorial](../walkthroughs/invest.md) for a walk-through on how to add/withdraw liquidity.&#x20;
+First time here? Check out [this tutorial](broken-reference) for a walk-through on how to add/withdraw liquidity.
 
 In short, you'll need:
 
@@ -17,7 +17,7 @@ In short, you'll need:
 
 ## What are the benefits of providing liquidity?
 
-Balancer Liquidity Providers (LPs) collect trading fees on each swap. In addition, some pools in V2 are eligible for Governance Distributions through the Liquidity Mining program.&#x20;
+Balancer Liquidity Providers (LPs) collect trading fees on each swap. In addition, some pools in V2 are eligible for Governance Distributions through the Liquidity Mining program.
 
 To read more about fees, click [here](fees.md).
 
@@ -31,16 +31,16 @@ When there is a trade in a pool, the pool collects a trade fee. The trade fee is
 
 ## How do I get _my_ trade fees?
 
-As the pool collects fees, your **Balancer Pool Tokens automatically collect fees** because they represent your **proportional share of the pool.**&#x20;
+As the pool collects fees, your **Balancer Pool Tokens automatically collect fees** because they represent your **proportional share of the pool.**
 
-Let's say Alice, Bob, Chuck, and Diana all provide liquidity in the same pool starting out worth $100. After some time, it has earned many trade fees and is now worth $200. The pool itself grows while their proportional shares stay the same.&#x20;
+Let's say Alice, Bob, Chuck, and Diana all provide liquidity in the same pool starting out worth $100. After some time, it has earned many trade fees and is now worth $200. The pool itself grows while their proportional shares stay the same.
 
-| Person | Proportional Share  | Initial Value | Value After Trading |
-| ------ | ------------------- | ------------- | ------------------- |
-| Alice  | 50.0%               | $50           | $100                |
-| Bob    | 25.0%               | $25           | $50                 |
-| Chuck  | 12.5%               | $12.50        | $25                 |
-| Diana  | 12.5%               | $12.50        | $25                 |
+| Person | Proportional Share | Initial Value | Value After Trading |
+| ------ | ------------------ | ------------- | ------------------- |
+| Alice  | 50.0%              | $50           | $100                |
+| Bob    | 25.0%              | $25           | $50                 |
+| Chuck  | 12.5%              | $12.50        | $25                 |
+| Diana  | 12.5%              | $12.50        | $25                 |
 
 ![](<../../.gitbook/assets/Screen Shot 2021-08-12 at 10.10.06 AM.png>)
 
@@ -50,4 +50,4 @@ In general the AMM logic determines the prices that traders pay. For example, We
 
 ## How does the self-balancing index fund work?
 
-Balancer allows anyone to create a self-balancing index fund. Instead of paying a portfolio manager to continuously rebalance the fund, as investors do with an ETF, liquidity providers collect fees as traders rebalance the trading pools. This works because market actors are incentivized to rebalance the portfolio to take advantage of arbitrage opportunities.&#x20;
+Balancer allows anyone to create a self-balancing index fund. Instead of paying a portfolio manager to continuously rebalance the fund, as investors do with an ETF, liquidity providers collect fees as traders rebalance the trading pools. This works because market actors are incentivized to rebalance the portfolio to take advantage of arbitrage opportunities.

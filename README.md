@@ -1,38 +1,18 @@
 ---
-cover: .gitbook/assets/welcomeBanner.png
-coverY: 0
+cover: >-
+  .gitbook/assets/skull-and-bones-2018-video-game-wallpaper-e88596fa7c7fcaf5772dc7dc816897b9.jpeg
+coverY: -509.7176820208024
 ---
 
-# Welcome
+# 🏴☠ Welcome to Mistral
 
 ## Introduction
 
-Balancer is a community-driven protocol, automated portfolio manager, liquidity provider, and price sensor that empowers
-decentralized exchange and the automated portfolio management of tokens on the Ethereum blockchain and other EVM
-compatible systems.
+Mistral is an automated Portfolio Manager, a liquidity provider and a Decentralized Exchange on the Klaytn blockchain.
 
-Balancer Pools contain two or more tokens that traders can swap between. Liquidity Providers put their tokens in the
-pools in order to collect swap fees.&#x20;
+Mistral is a community-governed decentralized exchange & portfolio manager built with liquidity providers in mind.
 
-Balancer adopts powerful features to slash gas costs, super-charge capital efficiency, unlock arbitrage with zero-token
-starting capital, and open the door to custom AMMs.
+Achieved by features such as the [weighted pool](products/balancer-pools.md#weighted-pools) & [vote-escrow tokenomics](core-concepts/tokenomics/vebal-and-gauges.md), Mistral builds upon innovative DeFi concepts to provide an elaborate - yet sustainable protocol that rewards its users with valuable governance.
 
-## Index Funds: Revolutionized
 
-Pools with high token-counts are like index funds, allowing users to have access to broad exposure to a variety of
-tokens. Where Balancer differs from the traditional notion of an index fund, however, is in the fees.&#x20;
 
-**Instead of paying fees** to have a broker rebalance the pool, the **pools collect fees** as they're continuously
-rebalanced by traders making swaps. Furthermore, high token-count pools have the advantage of having many token pairs,
-creating additional opportunities to collect trading fees.
-
-Balancer's WeightedPools are based on an [N-dimensional invariant surface](https://balancer.finance/whitepaper/), a
-generalization of the constant product formula described by Vitalik Buterin.
-
-## Serving Everyone
-
-With this mechanism, needs of both Liquidity Providers and Traders are served:
-
-* Liquidity Providers collect trading fees, while the their portfolio is continuously rebalanced
-* Traders gain access to an open, decentralized exchange that never closes, allowing them to swap what and when they
-  like for low fees
