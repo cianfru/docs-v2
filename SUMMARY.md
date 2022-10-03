@@ -1,47 +1,37 @@
 # Table of contents
 
-* [🏴☠ Welcome to Mistral](README.md)
+* [Welcome to Mistral](README.md)
 
-## Products
+## Balancer technology
 
-* [Mistral Pools](products/balancer-pools.md)
+* [Liquidity Providers](balancer-technology/liquidity-providers.md)
+* [Flash Loans](balancer-technology/flash-loans.md)
+* [The Mistral Vault](balancer-technology/the-mistral-vault/README.md)
+  * [Vault FAQ](balancer-technology/the-mistral-vault/vault-faq.md)
+* [Smart Order Router (SOR)](balancer-technology/smart-order-router-sor.md)
+* [Asset Manager](balancer-technology/asset-manager/README.md)
+  * [Asset Manager FAQ](balancer-technology/asset-manager/asset-manager-faq.md)
 
-## Balancer V2 technology
+***
 
-* [Asset Manager](balancer-v2-technology/asset-managers.md)
-* [Flash Loans](balancer-v2-technology/flash-loans.md)
-* [The Mistral Vault](balancer-v2-technology/the-vault.md)
-* [Smart Order Router (SOR)](balancer-v2-technology/smart-order-router.md)
+* [Roadmap](roadmap.md)
 
-## Core concepts
+## mistral features
 
-* [Tokenomics](core-concepts/tokenomics/README.md)
-  * [Initial Supply](core-concepts/tokenomics/initial-supply.md)
-  * [Liquidity providers](core-concepts/tokenomics/liquidity-providers.md)
-  * [veMSTRL](core-concepts/tokenomics/vebal-and-gauges.md)
-* [Core Pools](core-concepts/core-pools.md)
-* [Fees](core-concepts/fees.md)
+* [Tokenomics](mistral-features/tokenomics/README.md)
+  * [veMSTRL](mistral-features/tokenomics/vemstrl.md)
+  * [Initial Supply](mistral-features/tokenomics/initial-supply.md)
+  * [Liquidity providers](mistral-features/tokenomics/liquidity-providers.md)
+* [Mistral Pools](mistral-features/mistral-pools.md)
+* [Core Pools](mistral-features/core-pools.md)
+* [Fees](mistral-features/fees/README.md)
+  * [Fees FAQ](mistral-features/fees/fees-faq.md)
 
-## Security
+## getting started
 
-* [Audits](security/audits.md)
-* [Emergency Pause](security/emergency-pause.md)
+* [Swapping](getting-started/swapping.md)
+* [Liquidity](getting-started/liquidity.md)
 
-## Getting Started
+***
 
-* [FAQs](getting-started/faqs/README.md)
-  * [Swapping](getting-started/faqs/swapping.md)
-  * [Liquidity](getting-started/faqs/liquidity.md)
-  * [Liquidity Mining with the veBAL and Gauge System](getting-started/faqs/liquidity-mining-with-the-vebal-and-gauge-system.md)
-  * [Liquidity Mining (Legacy)](getting-started/faqs/liquidity-mining.md)
-  * [Fees](getting-started/faqs/fees.md)
-  * [Governance](getting-started/faqs/governance.md)
-  * [The Vault](getting-started/faqs/the-vault.md)
-  * [Pools and LBPs](getting-started/faqs/pools-and-lbps.md)
-  * [Asset Managers](getting-started/faqs/asset-managers.md)
-
-## Community
-
-* [Discord](https://discord.balancer.fi)
-* [Forums](https://forum.balancer.finance/)
-* [Medium](https://medium.com/balancer-protocol)
+* [GITHUB](https://github.com/MistralFi)
