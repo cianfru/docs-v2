@@ -9,6 +9,6 @@ layout: landing
 
 ## Introduction
 
-Mistral is an automated Portfolio Manager, a liquidity provider and a Decentralized Exchange on the Klaytn blockchain.
+Mistral is an automated Asset Manager, a liquidity provider and a Decentralized Exchange on the Klaytn blockchain.
 
-Achieved by features such as the [weighted pool](broken-reference) & [vote-escrow tokenomics](broken-reference), Mistral builds upon innovative DeFi concepts to provide an elaborate - yet sustainable protocol that rewards its users with valuable governance.
+Achieved by features such as the weighted pools & vote-escrow tokenomics, Mistral builds upon innovative DeFi concepts to provide an elaborate - yet sustainable protocol that rewards its users with valuable governance.
