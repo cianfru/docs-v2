@@ -16,4 +16,4 @@ veMSTRL holders can do the following on Mistral:
 * Earn bribes from voted-on pools
 * Earn swap fees from liquidity pools that the user has voted for
 
-Voting epochs are held bi-weekly every second (day) at (time in UTC)
+Voting epochs are held bi-weekly every Friday at 09:00 time UTC
