@@ -9,7 +9,7 @@ layout: landing
 
 ## Introduction
 
-Mistral is an innovative decentralized exchange built on the Klaytn blockchain. Mistral allows users to trade assets directly with each other, without the need for intermediaries. This means that users have full control over their assets and can trade them in a secure, trustless, and transparent manner.
+Mistral is an innovative decentralized exchange built on the Klaytn blockchain using Balancer technology. The Balancer Protocol provides a powerful solution for decentralized exchange with its unique architecture and efficient token management.&#x20;
 
 One of the key features of Mistral is its automated asset management system. This system uses smart contracts to automatically manage liquidity and pricing for assets on the platform. By optimizing liquidity provision and minimizing slippage, the system helps ensure that users can trade assets quickly and efficiently. Additionally, the system provides efficient price discovery, ensuring that the prices of assets on the platform remain fair and transparent.
 
