@@ -21,7 +21,7 @@
 * [Tokenomics](mistral-features/tokenomics/README.md)
   * [veMSTRL](mistral-features/tokenomics/vemstrl.md)
   * [Initial Supply](mistral-features/tokenomics/initial-supply.md)
-  * [Liquidity providers](mistral-features/tokenomics/liquidity-providers.md)
+  * [Emission Schedule](mistral-features/tokenomics/emission-schedule.md)
 * [Mistral Pools](mistral-features/mistral-pools.md)
 * [Core Pools](mistral-features/core-pools.md)
 * [Fees](mistral-features/fees/README.md)

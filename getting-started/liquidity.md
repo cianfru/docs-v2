@@ -11,4 +11,4 @@ To invest, you'll need:
 
 ## What are the benefits of providing liquidity?
 
-Mistral Liquidity Providers (LPs) are eligible to receive $MSTRL Governance tokens in accordance to our LM distribution schedule to be found [here](../mistral-features/tokenomics/liquidity-providers.md).
+Mistral Liquidity Providers (LPs) are eligible to receive $MSTRL Governance tokens in accordance to our LM distribution schedule to be found [here](../mistral-features/tokenomics/emission-schedule.md).
